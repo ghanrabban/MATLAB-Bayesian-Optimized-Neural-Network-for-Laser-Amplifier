@@ -1,3 +1,5 @@
+# MATLAB Bayesian Optimized Neural Network for Laser Amplifier
+
 The following are the primary codes for the forthcoming research titled "Enhancing Machine Learning Training for Gain Coefficient Estimation in Optical Fiber Amplifiers using Bayesian Optimization," which will soon be published in the IEEE Open Journal of Photonics.
 
 There are two distinct codes:
